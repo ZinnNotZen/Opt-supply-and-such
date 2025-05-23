@@ -1,0 +1,66 @@
+Country,City,Demand (monthly tons)
+France,Paris,"6,500"
+Germany,Cologne,640
+Germany,Hanover,180
+India,Bangalore,"9,100"
+India,Coimbatore,570
+India,Delhi,"19,000"
+India,Mumbai,"14,800"
+Italy,Cagliari,90
+Italy,Catania,185
+Italy,Milan,800
+Italy,Rome,"1,700"
+Poland,Katowice,170
+Spain,Barcelona,"2,800"
+Spain,Madrid,"3,700"
+United Kingdom,Castle Donington,30
+United Kingdom,London,"6,700"
+United States (Alabama),Mobile,190
+United States (Alaska),Anchorage,175
+United States (Alaska),Fairbanks,38
+United States (Arizona),Phoenix,"2,400"
+United States (California),Los Angeles,"7,200"
+United States (California),Ontario,100
+United States (California),Riverside,"1,200"
+United States (California),Sacramento,"1,100"
+United States (California),San Francisco,"1,900"
+United States (California),Stockton,240
+United States (Colorado),Denver,"1,500"
+United States (Connecticut),Hartford,540
+United States (Florida),Miami,"3,400"
+United States (Florida),Lakeland,185
+United States (Florida),Tampa,"1,600"
+United States (Georgia),Atlanta,"3,000"
+United States (Hawaii),Honolulu,500
+United States (Hawaii),Kahului/Maui,16
+United States (Hawaii),Kona,63
+United States (Illinois),Chicago,"5,100"
+United States (Illinois),Rockford,172
+United States (Indiana),Fort Wayne,200
+United States (Indiana),South Bend,173
+United States (Iowa),Des Moines,300
+United States (Kansas),Wichita,290
+United States (Louisiana),New Orleans,550
+United States (Maryland),Baltimore,"1,300"
+United States (Minnesota),Minneapolis,"1,700"
+United States (Missouri),Kansas City,975
+United States (Missouri),St. Louis,"1,200"
+United States (Nebraska),Omaha,480
+United States (New Hampshire),Manchester,100
+United States (New Mexico),Albuquerque,450
+United States (New York),New York,"11,200"
+United States (North Carolina),Charlotte,900
+United States (Ohio),Toledo,290
+United States (Ohio),Wilmington,150
+United States (Oregon),Portland,"1,200"
+United States (Pennsylvania),Allentown,420
+United States (Pennsylvania),Pittsburgh,"1,000"
+United States (Puerto Rico),San Juan,"1,100"
+United States (Tennessee),Nashville,650
+United States (Texas),Austin,975
+United States (Texas),Dallas,"3,300"
+United States (Texas),Houston,"3,300"
+United States (Texas),San Antonio,"1,100"
+United States (Virginia),Richmond,600
+United States (Washington),Seattle/Tacoma,"2,000"
+United States (Washington),Spokane,260
